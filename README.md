@@ -25,6 +25,6 @@ I'm going to build a modern messaging app where users can sign up and log in to 
 - Learn to use ListViews to build scrolling views.
 - How to use Firebase Cloud Firestore to store and retrieve data on the fly.
 
-
+-Thanks to Appbrewery :)
 
 
