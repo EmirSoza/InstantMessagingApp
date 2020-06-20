@@ -1,20 +1,20 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+
+![alt text](https://media.giphy.com/media/QvSp0OtE4xMxE1UgtU/giphy.gif)
+
+# Instant Messaging Chat ⚡️
+
+## Goal
+
+ I'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud-based NoSQL database and secure authentication methods. 
 
 
-# Flash Chat ⚡️
+## What I will create
 
-## Our Goal
-
-The objective of this tutorial is to learn how to incorporate Firebase into our Flutter apps. We'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud-based NoSQL database and secure authentication methods. 
+I'm going to build a modern messaging app where users can sign up and log in to chat.
 
 
-## What you will create
 
-We’re going to build a modern messaging app where users can sign up and log in to chat.
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
-
-## What you will learn
+## What you can find
 
 - How to incorporate Firebase into your Flutter projects.
 - How to use Firebase authentication to register and sign in users.
@@ -27,6 +27,4 @@ We’re going to build a modern messaging app where users can sign up and log in
 
 
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
